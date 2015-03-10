@@ -15,7 +15,7 @@ public class solve {
 //		}
 //		while(it.hasPrevious())
 //			it.previous();
-		for(int fuck = 0; fuck <= 36; fuck++)
+		for(int   = 0; gg <= 36; gg++)
 		{
 			pp.add(0);
 			cc.add(0);
